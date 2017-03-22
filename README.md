@@ -1,3 +1,4 @@
-# My Awesome Book
+# React com ES6: de Padawan a Mestre Jedi
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Escrito por \(Valter júnior\)\[http://twitter.com/jvcjunior\] .
+
