@@ -12,5 +12,5 @@ React é ...
 
 4. ... o V em MVC.
 
-Tudo isso é verdade, mas eles também descrevem toneladas de outras estruturas de front-end JavaScript. \*\*Eu acredito que React é melhor descrito pelo problema que resolve\*\*.
+Tudo isso é verdade, mas eles também descrevem toneladas de outras estruturas de front-end JavaScript. Eu acredito que React é melhor descrito pelo problema que resolve.
 
