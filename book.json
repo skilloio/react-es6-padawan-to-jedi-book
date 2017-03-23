@@ -1,14 +1,3 @@
 {
-    "structure": {
-        "readme": "myIntro.md"
-    },
-    "plugins": [ "jsfiddle"],
-    "pluginsConfig": {
-          "jsfiddle":{
-            "type":"script",
-            "tabs":["js","result","html","resources"],
-            "height": "500",
-            "width": "100%"
-          }
-    }
+   
 }
