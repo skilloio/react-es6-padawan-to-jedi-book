@@ -5,7 +5,7 @@
           "jsfiddle": {
             "type"  :   "script",
             "tabs"  :   ["js","result","html","resources"],
-            "height":   "500",
+            "height":   "500px",
             "width" :   "100%"
           }
     }
