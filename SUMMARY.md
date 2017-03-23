@@ -1,2 +1,2 @@
-docs/README.md
+docs/SUMMARY.md
 
