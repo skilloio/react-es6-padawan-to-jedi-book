@@ -4,7 +4,7 @@ React é uma biblioteca popular e por uma boa razão, ela é extremamente útil.
 
 React é ...
 
-1. ... uma biblioteca de JavaScript para criar interfaces de usuário.
+1. Uma biblioteca de JavaScript para criar interfaces de usuário.
 
 2. ... uma abstração de vista baseada em componentes.
 
