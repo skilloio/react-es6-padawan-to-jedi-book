@@ -1,6 +1,6 @@
 # React com ES6: de Padawan a Mestre Jedi
 
-Escrito por [Valter Júnior](http://twitter.com/jvcjunior/) ao criar o curso React com ES6: de Padawan a Mestre Jedi.
+Escrito por [Valter Júnior](http://github.com/jvcjunior/) ao criar o curso React com ES6: de Padawan a Mestre Jedi.
 
 ***
 
