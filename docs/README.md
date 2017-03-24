@@ -10,6 +10,7 @@ Escrito por [Valter Júnior](http://github.com/jvcjunior/) ao criar o curso Reac
 
 **Download a .pdf, .epub, or .mobi file from**:
 
+* [https://www.gitbook.com/book/skilloio/react-de-padawan-a-mestre-jedi/details](https://www.gitbook.com/book/skilloio/react-de-padawan-a-mestre-jedi/details)
 
 **Se desejar contribuir, ou dar sugestões, corrigir problemas no GitHub**:
 
