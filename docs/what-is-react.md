@@ -27,15 +27,15 @@ Um estilo declarativo, como o que React, permite que você controle o fluxo e o 
 Vamos ver um exemplo prático disso. Imagine um componente de uma interface do usuário simples, como um botão `curtir`. Quando você clica nele ele se torna azul se era cinza e se torna cinza se era azul. A maneira imperativa de fazer isso seria algo como:
 
 ```javascript
-if(user.likes()){
-  if(!hasBlue()) {
-    removeGrey();
-    addBlue();
+if(user.curtir()){
+  if(!isAzul()) {
+    removeCinza();
+    addAzul();
   }
 }else{
-   if(hasBlue()){
-      removeBlue();
-      addGrey();
+   if(isAzul()){
+      removeAzul();
+      addCinza();
    }
 }
 ```
@@ -46,9 +46,9 @@ Isto é como você escreveria isso em React (abordagem declarativa):
 
 ```javascript
 if(this.state.liked){
-  return <BlueLike />;
+  return <LikeAzul />;
 }else{
-  return <GreyLike />;
+  return <LikeCinza />;
 }
 ```
 
