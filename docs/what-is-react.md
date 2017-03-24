@@ -1,6 +1,6 @@
 # O que é React?
 
-React é uma biblioteca popular e por uma boa razão, ela é extremamente útil. Mas quando alguns desenvolvedores consideram aprender React, eles frequentemente acabam enfrentando um problema: Eles não tem muita certeza do que o React é ou problema que ele resolve. Você provavelmente já leu várias descrições explicando 'o que é React?', mas pode ser que tenha achado que nessas definições alguma coisa estava faltando. Aqui estão alguns que eu encontrei:
+React é uma biblioteca popular e por uma boa razão, ela é extremamente útil. Mas quando alguns desenvolvedores consideram aprender React, eles frequentemente acabam enfrentando um problema: Eles não tem muita certeza do que o React é ou problema que ele resolve. Você provavelmente já leu várias descrições explicando **'O que é React'**, mas pode ser que tenha achado que nessas definições alguma coisa estava faltando. Aqui estão alguns que eu encontrei:
 
 React é ...
 
