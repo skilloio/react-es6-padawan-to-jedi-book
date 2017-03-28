@@ -1,3 +1,3 @@
-# Jedi Setup
+# Configurando o React como mestre Jedi
 
 Em processo de criação...

@@ -1,4 +1,4 @@
-# Padawan Setup
+# Configurando o React como Padawan
 
 Nesta seção iremos discutir como podemos fazer nosso código em React funcionar. O nome da seção já dá uma idéia que vamos fazer algo simples inicialmente para depois irmos para algo realmente profissional. 
 <!--Melhorar isso aqui-->
