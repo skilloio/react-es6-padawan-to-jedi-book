@@ -1,5 +1,8 @@
 # Configurando o React como Padawan
 
-Nesta seção iremos discutir como podemos fazer nosso código em React funcionar. O nome da seção já dá uma idéia que vamos fazer algo simples inicialmente para depois irmos para algo realmente profissional. 
+Nesta seção iremos discutir como podemos fazer nosso código em React funcionar. O nome da seção já dá uma idéia que vamos fazer algo simples inicialmente para depois irmos para algo que possa ser usado no mundo real. 
 <!--Melhorar isso aqui-->
-É importante que entendamos todos os aspectos por trás dessa tecnologia e as diversas maneiras que existem de fazer uma mesma coisa. Se você já conhece React, e já fez algumas coisinhas e está tentado pular para a sessão seguinte, eu sugeriria que pelo menos conferisse rapidamente o que faremos nessa seção. Caso não saiba nada de React e esse seu seu primeiro contato, ou faça parte do seu contato inicial, eu sugiro fortemente que não pule de sessão. Chegaremos ao nível de configuração Jedi em breve e ao poucos você irá aprofundar cada vez mais o seu conhecimento. 
+Vamos começar configurando o React em um arquivo HTML e criando o código no mesmo arquivo. Essa seção tem por objetivo lhe mostrar o que está envolvido em criar uma aplicação React, quais arquivos são necessários
+e como usar a APi fornecida por essa biblioteca. 
+
+Chegaremos ao nível de configuração Jedi na próxima seção e ao poucos você irá aprofundar cada vez mais o seu conhecimento. 
