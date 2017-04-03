@@ -12,5 +12,7 @@
     * [2.3 Usando ES6 com React](padawan-setup/2.3.md)
     * [2.4 JSFiddle](padawan-setup/2.4.md)
 * [3. Configurando o React como mestre Jedi](jedi-setup.md)
-    * [3.1 React com Webpack](jedi-setup/3.1.md)
+    * [3.1 Primeiros passos](jedi-setup/3.1.md)
+    * [3.2 Instalação e configuração do Webpack](jedi-setup/3.2.md)
+    * [3.3 Instalação e configuração do Babel](jedi-setup/3.3.md)
 
