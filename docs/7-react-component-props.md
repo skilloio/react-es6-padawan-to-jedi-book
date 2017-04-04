@@ -1,2 +1,2 @@
-## Propriedades do Componente React
+# Propriedades do Componente React
 Em desenvolvimento...

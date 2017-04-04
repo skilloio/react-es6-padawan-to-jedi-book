@@ -15,6 +15,8 @@
     * [3.1 Primeiros passos](jedi-setup/3.1.md)
     * [3.2 Instalação e configuração do Webpack](jedi-setup/3.2.md)
     * [3.3 Instalação e configuração do Babel](jedi-setup/3.3.md)
+    * [3.4 Criando a estrutura do Projeto](jedi-setup/3.4.md)
+    * [3.5 Gran Finale](jedi-setup/3.5.md)
 * [4. Elementos React](4-react-elements.md)
 * [5. JavaScript Syntax Extension (JSX)](5-jsx.md)
 * [6. Componentes React](6-react-components.md)

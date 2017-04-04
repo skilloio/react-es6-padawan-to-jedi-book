@@ -25,3 +25,6 @@ Para usuários de Mac OS, os comandos abaixo serão suficientes para instalar o 
 brew update
 brew install yarn
 ```
+
+## Observações
+1. Nessa seção iremos configurar um ambiente para o projeto React e precisaremos criar um projeto bem simples para testar nossa configuração. Se não entendeu o código React que vamos fazer, não se preocupe. Não é o papel dessa seção focar no React em si, mas sim na criação de uma configuração que pode ser usada para iniciar um projeto no mundo real.
