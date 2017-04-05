@@ -18,6 +18,7 @@
     * [3.4 Criando a estrutura do Projeto](jedi-setup/3.4.md)
     * [3.5 Gran Finale](jedi-setup/3.5.md)
 * [4. Elementos React](4-react-elements.md)
+    * [4.1 Título](4-react-elements/4.1.md)
 * [5. JavaScript Syntax Extension (JSX)](5-jsx.md)
 * [6. Componentes React](6-react-components.md)
 * [7. Propriedades do Componente React](7-react-component-props.md)
