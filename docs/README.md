@@ -4,7 +4,7 @@ Escrito por [Valter Júnior](http://github.com/jvcjunior/) ao criar o curso Reac
 
 ***
 
-**Read Online At**: 
+**Read Online At**:
 
 * [React com ES6: de Padawan a Mestre Jedi](https://skilloio.gitbooks.io/react-de-padawan-a-mestre-jedi/)
 
@@ -15,6 +15,10 @@ Escrito por [Valter Júnior](http://github.com/jvcjunior/) ao criar o curso Reac
 **Se desejar contribuir, ou dar sugestões, corrigir problemas no GitHub**:
 
 * [https://github.com/skilloio/react-es6-padawan-to-jedi-book](https://github.com/skilloio/react-es6-padawan-to-jedi-book)
+
+**Leia outros livros da série de Padawan a Mestre Jedi criados pela [skillo.io](http://skillo.io)**:
+
+* [Angular 4 com TypeScript: de Padawan a Mestre Jedi](https://skilloio.gitbooks.io/angular-4-com-typescript-de-padawan-a-mestre-jedi/content/)
 
 ***
 
