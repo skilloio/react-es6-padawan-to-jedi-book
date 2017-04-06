@@ -24,7 +24,7 @@ Tudo isso é verdade, mas eles também descrevem toneladas de outros frameworks 
 ### Declarativo
 Um estilo declarativo, como o que React, permite que você controle o fluxo e o estado em sua aplicação, dizendo: "Deve ser parecido com isso". Um estilo imperativo é diferente e permite que você controle sua aplicação dizendo "isto é o que você deve fazer".
 
-Vamos ver um exemplo prático disso. Imagine um componente de uma interface do usuário simples, como um botão `curtir`. Quando você clica nele ele se torna azul se era cinza e se torna cinza se era azul. A maneira imperativa de fazer isso seria algo como:
+Vamos ver um exemplo prático disso. Imagine um componente de uma interface do usuário simples, como um botão `curtir`. Quando você clica no botão ele fica azul. Se for clicado mais uma vez ele fica cinza. Basicamente como o `like` do Facebook. A maneira imperativa de fazer isso seria algo como:
 
 ```javascript
 if(user.curtir()){
@@ -42,7 +42,7 @@ if(user.curtir()){
 
 Então basicamente eu tenho que verificar o que está atualmente na tela e fazer chamadas para manipulá-lo. Você pode imaginar como complexo isso poderia ficar.
 
-Isto é como você escreveria isso em React (abordagem declarativa):
+Abaixo podemos ver o mesmo comportamento acima usando o React (abordagem declarativa):
 
 ```javascript
 if(this.state.liked){
@@ -52,7 +52,7 @@ if(this.state.liked){
 }
 ```
 
-o foco aqui na interface é o estado. Você pode perceber quão mais simples o código é para entender. 
+o foco aqui na interface é o estado. Você pode perceber quão simples o código é para entender. 
 
 ### Baseado em Componentes
 Crie componentes encapsulados que gerenciam seu próprio estado e, em seguida, componha-os para criar UIs complexas.
