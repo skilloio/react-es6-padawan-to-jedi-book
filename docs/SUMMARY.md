@@ -25,6 +25,7 @@
 * [6. Componentes React](6-react-components.md)
 * [7. Propriedades do Componente React](7-react-component-props.md)
 * [8. Estado do Componente React](8-react-component-state.md)
-
+* [9. E agora?](9-next-steps.md)
+    * [9.1 Redux](next-steps/9.1.md)
 
 
