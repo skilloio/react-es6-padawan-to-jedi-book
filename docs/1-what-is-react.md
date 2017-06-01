@@ -68,10 +68,12 @@ Os dados nesse padrão fluem em uma única direção conforme podemos notar na f
 
 Um fluxo unidirecional é a idéia central do Flux e o diagrama acima mostra claramente essa idéia. Não se preocupe se não sabe o que é o dispatcher, stores e views. Esses conceitos estão intimamente ligados com a arquitetura de uma aplicação usando flux. Não tenho por objetivo aprofundar nesse assunto, mas de antemão o incentivo fortemente a ler a respeito. Até porque o redux, que é outra biblioteca Javascript muito conhecida e usada com react, também aplica os conceitos do flux.
 
-### Somente Javascript
-Em desenvolvimento...
-
 ### Aprenda uma vez, escreva em qualquer lugar
-O conhecimento em React também pode ser usado para criar aplicativos móveis com [React Native](https://facebook.github.io/react-native/)
+O conhecimento em React também pode ser usado para criar aplicativos móveis com [React Native](https://facebook.github.io/react-native/). O react native nos fornece componentes que depois serão traduzidos para código nativo,como por exemplo o `ScrollView` e `TextInput`.
 
+Uma vez que você se sinta confortável com a construção de aplicativos da Web com o React, você pode mudar facilmente para criar aplicativos móveis usando o React Native. Embora não esteja diretamente relacionado ao React, React Native segue os mesmos padrões de design, facilitando a transição!
+
+Usando apenas Javascript, você poderá criar o equivalente nativo ao Java, Swift ou Objective-C, suportado tanto pelo Android quanto pelo iOS.
+<!--### Somente Javascript
+Em desenvolvimento...-->
 Depois de analisar um pouco sobre o React e suas características, estamos prontos para aprender qual o problema que essa biblioteca que está fazendo tanto sucesso resolve.
