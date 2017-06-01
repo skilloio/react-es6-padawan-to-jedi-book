@@ -66,6 +66,9 @@ Os dados nesse padrão fluem em uma única direção conforme podemos notar na f
 
 <img alt="Flux" style="border-width:0" src="../images/flux1.PNG" />
 
+
+![Image](../../images/flux1.PNG)
+
 Um fluxo unidirecional é a idéia central do Flux e o diagrama acima mostra claramente essa idéia. Não se preocupe se não sabe o que é o dispatcher, stores e views. Esses conceitos estão intimamente ligados com a arquitetura de uma aplicação usando flux. Não tenho por objetivo aprofundar nesse assunto, mas de antemão o incentivo fortemente a ler a respeito. Até porque o redux, que é outra biblioteca Javascript muito conhecida e usada com react, também aplica os conceitos do flux.
 
 ### Somente Javascript
