@@ -73,3 +73,5 @@ Em desenvolvimento...
 
 ### Aprenda uma vez, escreva em qualquer lugar
 O conhecimento em React também pode ser usado para criar aplicativos móveis com [React Native](https://facebook.github.io/react-native/)
+
+Depois de analisar um pouco sobre o React e suas características, estamos prontos para aprender qual o problema que essa biblioteca que está fazendo tanto sucesso resolve.
