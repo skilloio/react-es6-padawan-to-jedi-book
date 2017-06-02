@@ -74,6 +74,10 @@ O conhecimento em React também pode ser usado para criar aplicativos móveis co
 Uma vez que você se sinta confortável com a construção de aplicativos da Web com o React, você pode mudar facilmente para criar aplicativos móveis usando o React Native. Embora não esteja diretamente relacionado ao React, React Native segue os mesmos padrões de design, facilitando a transição!
 
 Usando apenas Javascript, você poderá criar o equivalente nativo ao Java, Swift ou Objective-C, suportado tanto pelo Android quanto pelo iOS.
+
 <!--### Somente Javascript
 Em desenvolvimento...-->
+
+## Próximos passos
+
 Depois de analisar um pouco sobre o React e suas características, estamos prontos para aprender qual o problema que essa biblioteca que está fazendo tanto sucesso resolve.
