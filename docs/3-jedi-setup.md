@@ -14,8 +14,8 @@ Antes de mais nada, vamos precisar do Node e do Yarn instalados antes de configu
 Como mencionado acima, usaremos o `yarn` como Gerenciador de Pacotes. É bastante semelhante ao `npm` e tem quase os mesmos comandos fornecidos pelo `npm`. Ele também vem com alguns recursos extras que `npm` não fornece. Algumas razões são:
 
 1. Se você já instalou um pacote antes, você pode instalá-lo novamente sem qualquer conexão com a Internet.
-2. Além do fato de que você pode instalar pacotes offline, isso também aumenta a velocidade de suas prestações.
-3. As mesmas dependências exatas são instaladas em qualquer máquina. Isto significa essencialmente que uma instalação em uma máquina funcionará da mesma maneira exata em qualquer outra máquina.
+2. Além do fato de que você pode instalar pacotes offline, isso também aumenta a velocidade de suas atualizações.
+3. As mesmas dependências são instaladas em qualquer máquina. Isto significa essencialmente que uma instalação em uma máquina funcionará da mesma maneira em qualquer outra máquina.
 
 Para obter mais informações, você pode consultar a documentação do `yarn`.
 
