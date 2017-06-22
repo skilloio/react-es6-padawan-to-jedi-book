@@ -11,7 +11,7 @@ Aprendemos até agora que o React é uma biblioteca de JavaScript, criada pelo F
 ## Pré-Requisitos
 Antes de mais nada, vamos precisar do Node e do Yarn instalados antes de configurar o nosso ambiente.
 
-Como mencionado acima, usaremos o `yarn` como Gerenciador de Pacotes. É bastante semelhante ao `npm` e tem quase os mesmos comandos fornecidos pelo `npm`. Ele também vem com alguns recursos extras que `npm` não fornece. Alguns dos recursos são:
+Como mencionado acima, usaremos o `yarn` como Gerenciador de Pacotes. É bastante semelhante ao `npm` e tem quase os mesmos comandos fornecidos pelo `npm`. Ele também vem com alguns recursos extras que `npm` não fornece. Algumas razões são:
 
 1. Se você já instalou um pacote antes, você pode instalá-lo novamente sem qualquer conexão com a Internet.
 2. Além do fato de que você pode instalar pacotes offline, isso também aumenta a velocidade de suas atualizações.
