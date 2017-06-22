@@ -1,6 +1,6 @@
 # Configurando o React como mestre Jedi
 
-Aprendemos até agora que o React é uma biblioteca de JavaScript, pelo Facebook, que é usada para construir interfaces de usuário. Quando eu comecei, uma das coisas que me incomodou foi que a maioria dos tutoriais sobre o React pulavam a configuração do ambiente. É tanto que vimos na seção anterior como fazer isso. Mas aquela configuração serve apenas a nível de aprendizado. No mundo real, não fazemos dessa forma. Nesta seção iremos criar um ambiente de desenvolvimento com React do zero. Vamos usar o seguinte:
+Aprendemos até agora que o React é uma biblioteca de JavaScript, criada pelo Facebook, que é usada para construir interfaces de usuário. Quando eu comecei, uma das coisas que me incomodou foi que a maioria dos tutoriais sobre o React pulavam a configuração do ambiente. É tanto que vimos na seção anterior como fazer isso. Mas aquela configuração serve apenas a nível de aprendizado. No mundo real, não fazemos dessa forma. Nesta seção iremos criar um ambiente de desenvolvimento com React do zero. Vamos usar o seguinte:
 
 1. Webpack - `Module bundler`
 2. Babel - Compilador Javascript
@@ -27,4 +27,4 @@ brew install yarn
 ```
 
 ## Observações
-1. Nessa seção iremos configurar um ambiente para o projeto React e precisaremos criar um projeto bem simples para testar nossa configuração. Se não entendeu o código React que vamos fazer, não se preocupe. Não é o papel dessa seção focar no React em si, mas sim na criação de uma configuração que pode ser usada para iniciar um projeto no mundo real.
+1. Nessa seção iremos configurar um ambiente para o projeto React e precisaremos criar um projeto bem simples para testar nossa configuração. Se não entender o código React que vamos fazer, não se preocupe. Não é o papel dessa seção focar no React em si, mas sim na criação de uma configuração que pode ser usada para iniciar um projeto no mundo real.
