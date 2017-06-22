@@ -1,2 +1,2 @@
-# Javascript Syntax Extension(JSX)
+# JavasSript Syntax Extension(JSX)
 Em desenvolvimento...
